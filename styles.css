@@ -15,8 +15,15 @@ h3{
     font-size: 14px;    
 }
 
+.single-line{
+    display: flex;
+    justify-content: center;
+    
+}
+
 header{
     background-color: white;
+    
 }
 
 footer{
