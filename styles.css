@@ -1,0 +1,62 @@
+h1{
+    font-weight: bold;
+    color: white;
+    text-shadow: 7px 7px 9px #423e3e;
+}
+
+h2{
+    font-style: italic;
+    font-size: 44px;
+}
+
+header{
+    background-color: black;
+}
+
+footer{
+    background: 
+}
+
+.footer-top {
+    padding: 60px 0; background: #333; text-align: left; color: #aaa; 
+}
+
+.footer-top h3 {
+    padding-bottom: 10px; color: #fff; 
+}
+
+.footer-top {
+    padding: 40px 0; text-align: center; 
+}
+
+.footer-about p a {
+    color: #aaa; border-bottom: 1px dashed #666; 
+}
+
+.footer-about p a:hover, .footer-about p a:focus {
+    color: #fff; border-color: #aaa; 
+}
+
+.footer-contact p { 
+    word-wrap: break-word; 
+}
+
+.footer-contact p a { 
+    color: #aaa; border-bottom: 1px dashed #666; 
+}
+
+.footer-contact p a:hover, .footer-contact p a:focus { 
+    color: #fff; border-color: #aaa; 
+}
+
+
+
+a:hover img{
+  color: red;
+  filter: grayscale(100%);
+}
+
+a {
+    text-decoration: none;
+}
+
