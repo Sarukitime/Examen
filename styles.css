@@ -5,16 +5,30 @@ h1{
 }
 
 h2{
+    font-family: monospace;
     font-style: thin;
     font-size: 24px;
     color: white;
 }
 
-h3{
-    text-align: right;
-    font-weight: lighter;
-    font-size: 14px;    
+h4{
+    color: white;
+    font-family: fantasy;
+    font-size: 24px;
 }
+
+h5{
+    color: white;
+    font-family: serif;
+    font-size: 24px;
+}
+
+h6{
+    color: white;
+    font-family: cursive;
+    font-size: 24px;
+}
+
 
 .single-line{
     display: flex;
