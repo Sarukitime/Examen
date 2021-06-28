@@ -1,3 +1,9 @@
+*{
+    padding: 0;
+    margin: 30px;
+}
+
+
 h1{
     font-weight: lighter;
     color: black;
@@ -12,19 +18,19 @@ h2{
 }
 
 h4{
-    color: white;
+    color: aqua;
     font-family: fantasy;
     font-size: 24px;
 }
 
 h5{
-    color: white;
+    color: brown;
     font-family: serif;
     font-size: 24px;
 }
 
 h6{
-    color: white;
+    color: blueviolet;
     font-family: cursive;
     font-size: 24px;
 }
@@ -42,41 +48,28 @@ h6{
 
 header{
     background-color: white;
+    padding: 0;
+    margin: 0;
     
 }
 
 .container{
-    background-color: black;
+    
     display: flex;
     flex-direction: column;
 }
 
-.uno{
-     display: flex;
-    flex-direction: row;
-}
-
-.dos{
-     display: flex;
-    flex-direction: row;
-}
-
-.tres{
-     display: flex;
-    flex-direction: row;
-}
-
-.cuatro{
-     display: flex;
-    flex-direction: row;
+.card-group{
+    display: flex;
+    
 }
 
 footer{
-    background: 
+    background-color: white;
 }
 
 .footer-top {
-    padding: 60px 0; background: #333; text-align: left; color: #aaa; 
+    padding: 60px 0;  text-align: left;  
 }
 
 .footer-top h3 {
